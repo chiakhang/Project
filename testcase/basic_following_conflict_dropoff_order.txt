@@ -1,0 +1,26 @@
+Basic Following Conflict
+Bin no. 123
+z-level 3
+SC: '6,8', '7,8'
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00099",
+            "pickup_nodes": "3,2,3", 
+            "drop_nodes": "8,8,2"
+        },
+            
+        {
+            "bin_no": "MY001-TB00110",
+            "pickup_nodes": "3,13,3", 
+            "drop_nodes": "8,8,1"
+        }
+    ]
+}

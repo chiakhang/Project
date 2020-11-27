@@ -1,0 +1,1012 @@
+
+
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+
+        {
+            "bin_no": "MY001-TB01090",
+            "pickup_nodes": "7,0,3", 
+            "drop_nodes": "3,3,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00967",
+            "pickup_nodes": "7,0,4", 
+            "drop_nodes": "3,4,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00844",
+            "pickup_nodes": "7,0,5", 
+            "drop_nodes": "3,5,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00721",
+            "pickup_nodes": "7,0,6", 
+            "drop_nodes": "3,6,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00598",
+            "pickup_nodes": "7,0,7", 
+            "drop_nodes": "3,7,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00475",
+            "pickup_nodes": "7,0,8", 
+            "drop_nodes": "3,8,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00352",
+            "pickup_nodes": "7,0,9", 
+            "drop_nodes": "3,9,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00229",
+            "pickup_nodes": "7,0,10", 
+            "drop_nodes": "3,10,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00106",
+            "pickup_nodes": "7,0,11", 
+            "drop_nodes": "3,11,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB01091",
+            "pickup_nodes": "7,3,3", 
+            "drop_nodes": "3,12,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00968",
+            "pickup_nodes": "7,3,4", 
+            "drop_nodes": "3,13,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00845",
+            "pickup_nodes": "7,3,5", 
+            "drop_nodes": "3,14,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00722",
+            "pickup_nodes": "7,3,6", 
+            "drop_nodes": "4,0,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00599",
+            "pickup_nodes": "7,3,7", 
+            "drop_nodes": "4,1,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00476",
+            "pickup_nodes": "7,3,8", 
+            "drop_nodes": "4,2,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00353",
+            "pickup_nodes": "7,3,9", 
+            "drop_nodes": "4,3,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00230",
+            "pickup_nodes": "7,3,10", 
+            "drop_nodes": "4,4,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00107",
+            "pickup_nodes": "7,3,11", 
+            "drop_nodes": "4,5,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB01092",
+            "pickup_nodes": "7,4,3", 
+            "drop_nodes": "4,6,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00969",
+            "pickup_nodes": "7,4,4", 
+            "drop_nodes": "4,7,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00846",
+            "pickup_nodes": "7,4,5", 
+            "drop_nodes": "4,8,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00723",
+            "pickup_nodes": "7,4,6", 
+            "drop_nodes": "4,9,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00600",
+            "pickup_nodes": "7,4,7", 
+            "drop_nodes": "4,10,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00477",
+            "pickup_nodes": "7,4,8", 
+            "drop_nodes": "4,11,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00354",
+            "pickup_nodes": "7,4,9", 
+            "drop_nodes": "4,12,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00231",
+            "pickup_nodes": "7,4,10", 
+            "drop_nodes": "4,13,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00108",
+            "pickup_nodes": "7,4,11", 
+            "drop_nodes": "4,14,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB01093",
+            "pickup_nodes": "7,7,3", 
+            "drop_nodes": "5,0,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00970",
+            "pickup_nodes": "7,7,4", 
+            "drop_nodes": "5,1,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00847",
+            "pickup_nodes": "7,7,5", 
+            "drop_nodes": "5,2,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00724",
+            "pickup_nodes": "7,7,6", 
+            "drop_nodes": "5,3,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00601",
+            "pickup_nodes": "7,7,7", 
+            "drop_nodes": "5,4,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00478",
+            "pickup_nodes": "7,7,8", 
+            "drop_nodes": "5,5,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00355",
+            "pickup_nodes": "7,7,9", 
+            "drop_nodes": "5,6,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00232",
+            "pickup_nodes": "7,7,10", 
+            "drop_nodes": "5,7,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00109",
+            "pickup_nodes": "7,7,11", 
+            "drop_nodes": "5,8,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB01094",
+            "pickup_nodes": "7,8,3", 
+            "drop_nodes": "5,9,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00971",
+            "pickup_nodes": "7,8,4", 
+            "drop_nodes": "5,10,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00848",
+            "pickup_nodes": "7,8,5", 
+            "drop_nodes": "5,11,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00725",
+            "pickup_nodes": "7,8,6", 
+            "drop_nodes": "5,12,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00602",
+            "pickup_nodes": "7,8,7", 
+            "drop_nodes": "5,13,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00479",
+            "pickup_nodes": "7,8,8", 
+            "drop_nodes": "5,14,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00356",
+            "pickup_nodes": "7,8,9", 
+            "drop_nodes": "6,0,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00233",
+            "pickup_nodes": "7,8,10", 
+            "drop_nodes": "6,1,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00110",
+            "pickup_nodes": "7,8,11", 
+            "drop_nodes": "6,2,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB01095",
+            "pickup_nodes": "7,9,3", 
+            "drop_nodes": "6,3,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00972",
+            "pickup_nodes": "7,9,4", 
+            "drop_nodes": "6,4,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00849",
+            "pickup_nodes": "7,9,5", 
+            "drop_nodes": "6,5,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00726",
+            "pickup_nodes": "7,9,6", 
+            "drop_nodes": "6,6,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00603",
+            "pickup_nodes": "7,9,7", 
+            "drop_nodes": "6,7,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00480",
+            "pickup_nodes": "7,9,8", 
+            "drop_nodes": "6,8,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00357",
+            "pickup_nodes": "7,9,9", 
+            "drop_nodes": "6,9,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00234",
+            "pickup_nodes": "7,9,10", 
+            "drop_nodes": "6,10,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00111",
+            "pickup_nodes": "7,9,11", 
+            "drop_nodes": "6,11,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB01096",
+            "pickup_nodes": "7,10,3", 
+            "drop_nodes": "6,12,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00973",
+            "pickup_nodes": "7,10,4", 
+            "drop_nodes": "6,13,2"
+        },
+        
+        {
+            "bin_no": "MY001-TB00850",
+            "pickup_nodes": "7,10,5", 
+            "drop_nodes": "6,14,2"
+        }
+        
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 2,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+
+        {
+            "bin_no": "MY001-TB00727",
+            "pickup_nodes": "7,10,6", 
+            "drop_nodes": "0,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00604",
+            "pickup_nodes": "7,10,7", 
+            "drop_nodes": "0,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00481",
+            "pickup_nodes": "7,10,8", 
+            "drop_nodes": "0,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00358",
+            "pickup_nodes": "7,10,9", 
+            "drop_nodes": "0,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00235",
+            "pickup_nodes": "7,10,10", 
+            "drop_nodes": "0,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00112",
+            "pickup_nodes": "7,10,11", 
+            "drop_nodes": "0,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01097",
+            "pickup_nodes": "7,11,3", 
+            "drop_nodes": "0,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00974",
+            "pickup_nodes": "7,11,4", 
+            "drop_nodes": "0,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00851",
+            "pickup_nodes": "7,11,5", 
+            "drop_nodes": "0,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00728",
+            "pickup_nodes": "7,11,6", 
+            "drop_nodes": "0,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00605",
+            "pickup_nodes": "7,11,7", 
+            "drop_nodes": "0,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00482",
+            "pickup_nodes": "7,11,8", 
+            "drop_nodes": "0,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00359",
+            "pickup_nodes": "7,11,9", 
+            "drop_nodes": "0,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00236",
+            "pickup_nodes": "7,11,10", 
+            "drop_nodes": "0,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00113",
+            "pickup_nodes": "7,11,11", 
+            "drop_nodes": "0,14,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01098",
+            "pickup_nodes": "7,14,3", 
+            "drop_nodes": "1,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00975",
+            "pickup_nodes": "7,14,4", 
+            "drop_nodes": "1,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00852",
+            "pickup_nodes": "7,14,5", 
+            "drop_nodes": "1,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00729",
+            "pickup_nodes": "7,14,6", 
+            "drop_nodes": "1,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00606",
+            "pickup_nodes": "7,14,7", 
+            "drop_nodes": "1,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00483",
+            "pickup_nodes": "7,14,8", 
+            "drop_nodes": "1,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00360",
+            "pickup_nodes": "7,14,9", 
+            "drop_nodes": "1,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00237",
+            "pickup_nodes": "7,14,10", 
+            "drop_nodes": "1,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00114",
+            "pickup_nodes": "7,14,11", 
+            "drop_nodes": "1,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01099",
+            "pickup_nodes": "8,0,3", 
+            "drop_nodes": "1,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00976",
+            "pickup_nodes": "8,0,4", 
+            "drop_nodes": "1,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00853",
+            "pickup_nodes": "8,0,5", 
+            "drop_nodes": "1,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00730",
+            "pickup_nodes": "8,0,6", 
+            "drop_nodes": "1,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00607",
+            "pickup_nodes": "8,0,7", 
+            "drop_nodes": "1,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00484",
+            "pickup_nodes": "8,0,8", 
+            "drop_nodes": "1,14,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00361",
+            "pickup_nodes": "8,0,9", 
+            "drop_nodes": "2,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00238",
+            "pickup_nodes": "8,0,10", 
+            "drop_nodes": "2,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00115",
+            "pickup_nodes": "8,0,11", 
+            "drop_nodes": "2,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01100",
+            "pickup_nodes": "8,3,3", 
+            "drop_nodes": "2,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00977",
+            "pickup_nodes": "8,3,4", 
+            "drop_nodes": "2,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00854",
+            "pickup_nodes": "8,3,5", 
+            "drop_nodes": "2,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00731",
+            "pickup_nodes": "8,3,6", 
+            "drop_nodes": "2,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00608",
+            "pickup_nodes": "8,3,7", 
+            "drop_nodes": "2,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00485",
+            "pickup_nodes": "8,3,8", 
+            "drop_nodes": "2,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00362",
+            "pickup_nodes": "8,3,9", 
+            "drop_nodes": "2,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00239",
+            "pickup_nodes": "8,3,10", 
+            "drop_nodes": "2,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00116",
+            "pickup_nodes": "8,3,11", 
+            "drop_nodes": "2,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01101",
+            "pickup_nodes": "8,4,3", 
+            "drop_nodes": "2,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00978",
+            "pickup_nodes": "8,4,4", 
+            "drop_nodes": "2,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00855",
+            "pickup_nodes": "8,4,5", 
+            "drop_nodes": "2,14,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00732",
+            "pickup_nodes": "8,4,6", 
+            "drop_nodes": "3,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00609",
+            "pickup_nodes": "8,4,7", 
+            "drop_nodes": "3,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00486",
+            "pickup_nodes": "8,4,8", 
+            "drop_nodes": "3,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00363",
+            "pickup_nodes": "8,4,9", 
+            "drop_nodes": "3,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00240",
+            "pickup_nodes": "8,4,10", 
+            "drop_nodes": "3,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00117",
+            "pickup_nodes": "8,4,11", 
+            "drop_nodes": "3,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01102",
+            "pickup_nodes": "8,7,3", 
+            "drop_nodes": "3,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00979",
+            "pickup_nodes": "8,7,4", 
+            "drop_nodes": "3,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00856",
+            "pickup_nodes": "8,7,5", 
+            "drop_nodes": "3,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00733",
+            "pickup_nodes": "8,7,6", 
+            "drop_nodes": "3,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00610",
+            "pickup_nodes": "8,7,7", 
+            "drop_nodes": "3,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00487",
+            "pickup_nodes": "8,7,8", 
+            "drop_nodes": "3,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00364",
+            "pickup_nodes": "8,7,9", 
+            "drop_nodes": "3,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00241",
+            "pickup_nodes": "8,7,10", 
+            "drop_nodes": "3,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00118",
+            "pickup_nodes": "8,7,11", 
+            "drop_nodes": "3,14,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01103",
+            "pickup_nodes": "8,8,3", 
+            "drop_nodes": "4,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00980",
+            "pickup_nodes": "8,8,4", 
+            "drop_nodes": "4,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00857",
+            "pickup_nodes": "8,8,5", 
+            "drop_nodes": "4,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00734",
+            "pickup_nodes": "8,8,6", 
+            "drop_nodes": "4,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00611",
+            "pickup_nodes": "8,8,7", 
+            "drop_nodes": "4,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00488",
+            "pickup_nodes": "8,8,8", 
+            "drop_nodes": "4,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00365",
+            "pickup_nodes": "8,8,9", 
+            "drop_nodes": "4,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00242",
+            "pickup_nodes": "8,8,10", 
+            "drop_nodes": "4,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00119",
+            "pickup_nodes": "8,8,11", 
+            "drop_nodes": "4,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01104",
+            "pickup_nodes": "8,9,3", 
+            "drop_nodes": "4,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00981",
+            "pickup_nodes": "8,9,4", 
+            "drop_nodes": "4,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00858",
+            "pickup_nodes": "8,9,5", 
+            "drop_nodes": "4,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00735",
+            "pickup_nodes": "8,9,6", 
+            "drop_nodes": "4,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00612",
+            "pickup_nodes": "8,9,7", 
+            "drop_nodes": "4,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00489",
+            "pickup_nodes": "8,9,8", 
+            "drop_nodes": "4,14,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00366",
+            "pickup_nodes": "8,9,9", 
+            "drop_nodes": "5,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00243",
+            "pickup_nodes": "8,9,10", 
+            "drop_nodes": "5,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00120",
+            "pickup_nodes": "8,9,11", 
+            "drop_nodes": "5,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01105",
+            "pickup_nodes": "8,10,3", 
+            "drop_nodes": "5,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00982",
+            "pickup_nodes": "8,10,4", 
+            "drop_nodes": "5,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00859",
+            "pickup_nodes": "8,10,5", 
+            "drop_nodes": "5,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00736",
+            "pickup_nodes": "8,10,6", 
+            "drop_nodes": "5,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00613",
+            "pickup_nodes": "8,10,7", 
+            "drop_nodes": "5,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00490",
+            "pickup_nodes": "8,10,8", 
+            "drop_nodes": "5,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00367",
+            "pickup_nodes": "8,10,9", 
+            "drop_nodes": "5,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00244",
+            "pickup_nodes": "8,10,10", 
+            "drop_nodes": "5,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00121",
+            "pickup_nodes": "8,10,11", 
+            "drop_nodes": "5,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01106",
+            "pickup_nodes": "8,11,3", 
+            "drop_nodes": "5,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00983",
+            "pickup_nodes": "8,11,4", 
+            "drop_nodes": "5,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00860",
+            "pickup_nodes": "8,11,5", 
+            "drop_nodes": "5,14,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00737",
+            "pickup_nodes": "8,11,6", 
+            "drop_nodes": "6,0,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00614",
+            "pickup_nodes": "8,11,7", 
+            "drop_nodes": "6,1,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00491",
+            "pickup_nodes": "8,11,8", 
+            "drop_nodes": "6,2,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00368",
+            "pickup_nodes": "8,11,9", 
+            "drop_nodes": "6,3,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00245",
+            "pickup_nodes": "8,11,10", 
+            "drop_nodes": "6,4,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00122",
+            "pickup_nodes": "8,11,11", 
+            "drop_nodes": "6,5,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB01107",
+            "pickup_nodes": "8,14,3", 
+            "drop_nodes": "6,6,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00984",
+            "pickup_nodes": "8,14,4", 
+            "drop_nodes": "6,7,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00861",
+            "pickup_nodes": "8,14,5", 
+            "drop_nodes": "6,8,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00738",
+            "pickup_nodes": "8,14,6", 
+            "drop_nodes": "6,9,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00615",
+            "pickup_nodes": "8,14,7", 
+            "drop_nodes": "6,10,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00492",
+            "pickup_nodes": "8,14,8", 
+            "drop_nodes": "6,11,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00369",
+            "pickup_nodes": "8,14,9", 
+            "drop_nodes": "6,12,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00246",
+            "pickup_nodes": "8,14,10", 
+            "drop_nodes": "6,13,1"
+        },
+        
+        {
+            "bin_no": "MY001-TB00123",
+            "pickup_nodes": "8,14,11", 
+            "drop_nodes": "6,14,1"
+        }
+        
+    ]
+}

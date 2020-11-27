@@ -1,0 +1,29 @@
+'19,4', '18,8', '18,3'
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00174",
+            "pickup_nodes": "19,4,1", 
+            "drop_nodes": "19,2,2"
+        },
+
+	{
+            "bin_no": "MY001-TB00179",
+            "pickup_nodes": "0,2,2", 
+            "drop_nodes": "19,3,2"
+        },
+
+	{
+            "bin_no": "MY001-TB00176",
+            "pickup_nodes": "19,2,1", 
+            "drop_nodes": "19,0,3"
+        }
+    ]
+}

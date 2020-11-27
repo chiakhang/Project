@@ -1,0 +1,120 @@
+{
+    "type" : "NORMAL",
+    "sm_order_id": 2,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00247",
+            "pickup_nodes": "0,0,1", 
+            "drop_nodes": "8,14,3"
+        },
+
+        {
+            "bin_no": "MY001-TB00248",
+            "pickup_nodes": "0,0,1", 
+            "drop_nodes": "7,14,3"
+        },
+            
+        {
+            "bin_no": "MY001-TB00249",
+            "pickup_nodes": "0,1,1", 
+            "drop_nodes": "8,11,3"
+        },
+            
+        {
+            "bin_no": "MY001-TB00250",
+            "pickup_nodes": "7,4,2", 
+            "drop_nodes": "8,10,3"
+        },
+            
+        {
+            "bin_no": "MY001-TB00251",
+            "pickup_nodes": "7,7,2", 
+            "drop_nodes": "8,9,3"
+        },
+            
+        {
+            "bin_no": "MY001-TB00252",
+            "pickup_nodes": "7,8,2", 
+            "drop_nodes": "8,8,3"
+        },
+            
+        {
+            "bin_no": "MY001-TB00253",
+            "pickup_nodes": "7,9,2", 
+            "drop_nodes": "8,7,3"
+        },
+            
+        {
+            "bin_no": "MY001-TB00254",
+            "pickup_nodes": "7,10,2", 
+            "drop_nodes": "8,4,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00255",
+            "pickup_nodes": "7,11,2", 
+            "drop_nodes": "8,3,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00256",
+            "pickup_nodes": "7,14,2", 
+            "drop_nodes": "8,0,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00257",
+            "pickup_nodes": "8,0,2", 
+            "drop_nodes": "7,0,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00258",
+            "pickup_nodes": "8,3,2", 
+            "drop_nodes": "7,3,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00259",
+            "pickup_nodes": "8,4,2", 
+            "drop_nodes": "7,4,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00260",
+            "pickup_nodes": "8,7,2", 
+            "drop_nodes": "7,7,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00261",
+            "pickup_nodes": "8,8,2", 
+            "drop_nodes": "7,8,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00262",
+            "pickup_nodes": "8,9,2", 
+            "drop_nodes": "7,9,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00263",
+            "pickup_nodes": "8,10,2", 
+            "drop_nodes": "7,10,3"
+        },
+
+	    {
+            "bin_no": "MY001-TB00264",
+            "pickup_nodes": "8,11,2", 
+            "drop_nodes": "7,11,3"
+        }
+
+	    
+            
+    ]
+}

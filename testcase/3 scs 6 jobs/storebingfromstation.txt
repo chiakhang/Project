@@ -1,0 +1,45 @@
+{
+    "type": "NORMAL",
+    "sm_order_id": 4,
+    "from_station_id": 1,
+    "to_station_id": 0,
+    "bins": [
+        {
+            "bin_no": "MY001-TB00088",
+            "pickup_nodes": "7,6,3",
+            "drop_nodes": "2,9,3"
+        }
+    ]
+}
+
+
+
+{
+    "type": "NORMAL",
+    "sm_order_id": 5,
+    "from_station_id": 2,
+    "to_station_id": 0,
+    "bins": [
+        {
+            "bin_no": "MY001-TB00040",
+            "pickup_nodes": "7,13,3",
+            "drop_nodes": "5,12,3"
+        }
+    ]
+}  
+
+
+
+{
+    "type": "NORMAL",
+    "sm_order_id": 6,
+    "from_station_id": 3,
+    "to_station_id": 0,
+    "bins": [
+        {
+            "bin_no": "MY001-TB00010",
+            "pickup_nodes": "7,2,3",
+            "drop_nodes": "0,9,3"
+        }
+    ]
+}  

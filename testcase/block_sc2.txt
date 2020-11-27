@@ -1,0 +1,112 @@
+'0,0', '3,0', '0,2', '1,2', '2,2'
+bin = 124, z = 11
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id": 0, 
+    "zone":"A",
+    "bins": [
+                
+        {
+            "bin_no": "MY001-TB00003",
+            "pickup_nodes": "0,2,11", 
+            "drop_nodes": "0,1,10"
+        },
+            
+
+	{
+            "bin_no": "MY001-TB00018",
+            "pickup_nodes": "1,2,11", 
+            "drop_nodes": "1,1,10"
+        },
+	
+	{
+            "bin_no": "MY001-TB00033",
+            "pickup_nodes": "2,2,11", 
+            "drop_nodes": "2,1,10"
+        },
+
+	{
+            "bin_no": "MY001-TB00046",
+            "pickup_nodes": "3,0,11", 
+            "drop_nodes": "2,0,10"
+        }
+
+            
+    ]
+}
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 2,  
+    "from_station_id": 0, 
+    "to_station_id": 0, 
+    "zone":"A",
+    "bins": [
+                
+        {
+            "bin_no": "MY001-TB00124",
+            "pickup_nodes": "0,0,10", 
+            "drop_nodes": "8,14,10"
+        }
+    ]
+}
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 3,  
+    "from_station_id": 0, 
+    "to_station_id": 0, 
+    "zone":"A",
+    "bins": [
+                
+        {
+            "bin_no": "MY001-TB00004",
+            "pickup_nodes": "0,2,11", 
+            "drop_nodes": "0,1,9"
+        },
+            
+
+	{
+            "bin_no": "MY001-TB00019",
+            "pickup_nodes": "1,2,11", 
+            "drop_nodes": "1,1,9"
+        },
+	
+	{
+            "bin_no": "MY001-TB00034",
+            "pickup_nodes": "2,2,11", 
+            "drop_nodes": "2,1,9"
+        },
+
+	{
+            "bin_no": "MY001-TB00061",
+            "pickup_nodes": "3,0,11", 
+            "drop_nodes": "2,0,9"
+        },
+
+	{
+            "bin_no": "MY001-TB00114",
+            "pickup_nodes": "3,0,11", 
+            "drop_nodes": "8,14,9"
+        }            
+    ]
+}
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 4,  
+    "from_station_id": 0, 
+    "to_station_id": 0, 
+    "zone":"A",
+    "bins": [
+                
+        {
+            "bin_no": "MY001-TB00114",
+            "pickup_nodes": "3,0,11", 
+            "drop_nodes": "8,14,9"
+        }
+    ]
+}

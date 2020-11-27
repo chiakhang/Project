@@ -1,0 +1,203 @@
+'6,4', '5,5', '6,3',
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00227",
+            "pickup_nodes": "6,13,2", 
+            "drop_nodes": "5,12,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB00218",
+            "pickup_nodes": "6,4,2", 
+            "drop_nodes": "6,12,1"
+        }
+    ]
+}
+
+
+/////////////////////////////////////    CASE 2    ///////////////////////////////////////////////////////////////
+
+'6,2', '3,2', '3,3'
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00171",
+            "pickup_nodes": "6,13,2", 
+            "drop_nodes": "5,2,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB00216",
+            "pickup_nodes": "6,4,2", 
+            "drop_nodes": "6,12,1"
+        },
+
+        {
+            "bin_no": "MY001-TB00172",
+            "pickup_nodes": "6,4,2", 
+            "drop_nodes": "6,3,1"
+        }
+    ]
+}
+
+
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 2,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00227",
+            "pickup_nodes": "6,13,2", 
+            "drop_nodes": "5,12,1"
+        },
+
+	{
+		"bin_no": "MY001-TB00228",
+            "pickup_nodes": "6,13,2", 
+            "drop_nodes": "8,14,2"
+	}
+    ]
+}
+
+////////////    CASE 2'    ////////////
+
+
+
+'6,2', '4,4' (or '3,4'), '3,3'
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00188",
+            "pickup_nodes": "6,13,2", 
+            "drop_nodes": "5,4,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB00216",
+            "pickup_nodes": "6,4,2", 
+            "drop_nodes": "6,12,1"
+        },
+
+        {
+            "bin_no": "MY001-TB00172",
+            "pickup_nodes": "6,4,2", 
+            "drop_nodes": "6,3,1"
+        }
+    ]
+}
+
+
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 2,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB00227",
+            "pickup_nodes": "6,13,2", 
+            "drop_nodes": "5,12,1"
+        }
+    ]
+}
+
+/// CBS ///
+=== Conflict Based Search ===
+- Current node: 0  Cost: 36.5  Makespan: 24.5  Depth: 1 -
+- Current node: 1  Cost: 36.5  Makespan: 24.5  Depth: 2 -
+- Current node: 3  Cost: 36.5  Makespan: 24.5  Depth: 3 -
+- Current node: 5  Cost: 36.5  Makespan: 24.5  Depth: 4 -
+- Current node: 7  Cost: 36.5  Makespan: 24.5  Depth: 5 -
+- Current node: 9  Cost: 36.5  Makespan: 24.5  Depth: 6 -
+- Current node: 11  Cost: 36.5  Makespan: 24.5  Depth: 7 -
+- Current node: 13  Cost: 36.5  Makespan: 24.5  Depth: 8 -
+- Current node: 15  Cost: 36.5  Makespan: 24.5  Depth: 9 -
+- Current node: 17  Cost: 36.5  Makespan: 24.5  Depth: 10 -
+- Current node: 19  Cost: 36.5  Makespan: 24.5  Depth: 11 -
+- Current node: 20  Cost: 37.5  Makespan: 25.5  Depth: 11 -
+- Current node: 23  Cost: 37.5  Makespan: 25.5  Depth: 12 -
+- Current node: 25  Cost: 37.5  Makespan: 25.5  Depth: 13 -
+- Current node: 27  Cost: 37.5  Makespan: 25.5  Depth: 14 -
+- Current node: 29  Cost: 37.5  Makespan: 25.5  Depth: 15 -
+- Current node: 31  Cost: 37.5  Makespan: 25.5  Depth: 16 -
+Solution found at node 31. Total used time: 0.24255895614624023
+{'SC1': [State(x=7, y=4, z=0, direction='y', time=95),
+         State(x=7, y=5, z=0, direction='y', time=96),
+         State(x=7, y=6, z=0, direction='y', time=97),
+         State(x=7, y=7, z=0, direction='y', time=98),
+         State(x=7, y=8, z=0, direction='y', time=99),
+         State(x=7, y=9, z=0, direction='y', time=100),
+         State(x=7, y=10, z=0, direction='y', time=101),
+         State(x=7, y=11, z=0, direction='y', time=102),
+         State(x=7, y=12, z=0, direction='y', time=103),
+         State(x=7, y=12, z=1, direction='y', time=104),
+         State(x=7, y=12, z=1, direction='y', time=105),
+         State(x=7, y=12, z=0, direction='y', time=106)],
+ 'SC2': [State(x=6, y=2, z=0, direction='x', time=95),
+         State(x=6, y=2, z=0, direction='y', time=96),
+         State(x=6, y=3, z=0, direction='y', time=97),
+         State(x=6, y=4, z=0, direction='y', time=98),
+         State(x=6, y=5, z=0, direction='y', time=99),
+         State(x=6, y=6, z=0, direction='y', time=100),
+         State(x=6, y=7, z=0, direction='y', time=101),
+         State(x=6, y=8, z=0, direction='y', time=102),
+         State(x=6, y=9, z=0, direction='y', time=103),
+         State(x=6, y=10, z=0, direction='y', time=104),
+         State(x=6, y=11, z=0, direction='y', time=105),
+         State(x=6, y=12, z=0, direction='y', time=106),
+         State(x=6, y=13, z=0, direction='y', time=107),
+         State(x=6, y=13, z=0, direction='x', time=108),
+         State(x=7, y=13, z=0, direction='x', time=109),
+         State(x=7, y=13, z=1, direction='x', time=110),
+         State(x=7, y=13, z=1, direction='x', time=111),
+         State(x=7, y=13, z=0, direction='x', time=112),
+         State(x=6, y=13, z=0, direction='x', time=113),
+         State(x=6, y=13, z=0, direction='y', time=114),
+         State(x=6, y=12, z=0, direction='y', time=115),
+         State(x=6, y=12, z=1, direction='y', time=116),
+         State(x=6, y=12, z=1, direction='y', time=117),
+         State(x=6, y=12, z=0, direction='y', time=118)],
+ 'SC3': [State(x=7, y=3, z=0, direction='y', time=95),
+         State(x=7, y=3, z=0, direction='y', time=96),
+         State(x=7, y=3, z=0, direction='y', time=97),
+         State(x=7, y=4, z=0, direction='y', time=98),
+         State(x=7, y=5, z=0, direction='y', time=99),
+         State(x=7, y=6, z=0, direction='y', time=100),
+         State(x=7, y=7, z=0, direction='y', time=101),
+         State(x=7, y=8, z=0, direction='y', time=102),
+         State(x=7, y=9, z=0, direction='y', time=103),
+         State(x=7, y=10, z=0, direction='y', time=104),
+         State(x=7, y=11, z=0, direction='y', time=105),
+         State(x=7, y=11, z=0, direction='x', time=106),
+         State(x=8, y=11, z=0, direction='x', time=107)]}
+Time taken: 0.35326075553894043

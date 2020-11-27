@@ -1,0 +1,21 @@
+{
+		"from_station_id" : 1 ,
+		"to_station_id" : 0 ,
+		"bin_no" : "MY001-TB00088"
+}
+
+
+
+{
+		"from_station_id" : 2 ,
+		"to_station_id" : 0 ,
+		"bin_no" : "MY001-TB00040"
+}
+
+
+
+{
+		"from_station_id" : 3 ,
+		"to_station_id" : 0 ,
+		"bin_no" : "MY001-TB00010"
+}

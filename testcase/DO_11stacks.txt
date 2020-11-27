@@ -1,0 +1,77 @@
+bin no. 6036
+cube's x, y, z: 24, 22, 11
+mockStation; "7,1", "7,12", "7,5"
+
+{
+    "type" : "NORMAL",
+    "sm_order_id": 1,  
+    "from_station_id": 0, 
+    "to_station_id" : 0, 
+    "zone":"A",
+    "bins": [
+        
+        {
+            "bin_no": "MY001-TB03784",
+            "pickup_nodes": "7,0,2", 
+            "drop_nodes": "20,0,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB03221",
+            "pickup_nodes": "7,3,2", 
+            "drop_nodes": "20,5,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB02658",
+            "pickup_nodes": "7,4,2", 
+            "drop_nodes": "20,10,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB02095",
+            "pickup_nodes": "7,7,2", 
+            "drop_nodes": "20,15,1"
+        },
+        {
+            "bin_no": "MY001-TB01532",
+            "pickup_nodes": "7,0,2", 
+            "drop_nodes": "20,20,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB00969",
+            "pickup_nodes": "7,3,2", 
+            "drop_nodes": "22,0,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB00406",
+            "pickup_nodes": "7,4,2", 
+            "drop_nodes": "22,10,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB04347",
+            "pickup_nodes": "7,7,2", 
+            "drop_nodes": "22,15,1"
+        },
+        {
+            "bin_no": "MY001-TB04910",
+            "pickup_nodes": "7,0,2", 
+            "drop_nodes": "22,20,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB05473",
+            "pickup_nodes": "7,3,2", 
+            "drop_nodes": "22,5,1"
+        },
+            
+        {
+            "bin_no": "MY001-TB06036",
+            "pickup_nodes": "7,4,2", 
+            "drop_nodes": "24,10,1"
+        }
+    ]
+}
